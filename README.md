@@ -11,7 +11,7 @@ Tagad mācos PIKC "Rīgas Valsts tehnikums" par programmēšanas tehniķi
 ![bilde](https://static-cdn-3.practican.com/thumbor/dO3J-Jybiab3LY1gAlnlCLBY9mw=/0x0/uploads/file/bab29b9e56dcd26964ea02d2b5b2eeb8eb36816ab62b9bd5a4cc6881f41c3331/img_5c91f4a2efe8c0.27081357.jpg)
 
 ## Sasniegumi
-Augstas vidējās atzīmes dēļ (*9,2*) saņēmu goda rakstu no Mārupes novada.
+Augstas vidējās atzīmes dēļ (9,2) saņēmu goda rakstu no Mārupes novada.
 
 Saņēmu 2018. gada Pierīgas matemātikas olimpiādē 10 vietu.
 
