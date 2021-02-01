@@ -8,6 +8,7 @@ Tagad mācos PIKC "Rīgas Valsts tehnikums" par programmēšanas tehniķi![bilde
 
 ## Sasniegumi
 Augstas vidējās atzīmes dēļ (*9,2*) saņēmu goda rakstu no Mārupes novada.
+
 Saņēmu 2018. gada Pierīgas matemātikas olimpiādē 10 vietu.
 
 
@@ -17,6 +18,10 @@ Man patīk daudz sportot:
 * Futbols
 * Volejbols
 * Hokejs
+
 Neskaitot sportu citi hobiji man īsti nav.
 
 ## Pieredze programmēšanā
+Nav man lielas pieredzes programmēšanā, bet tagad jau māku strādāt ar *Python*.
+
+Ar citām programmēšanas valodām neesmu strādājis.
